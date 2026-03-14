@@ -172,7 +172,7 @@ Pillow
 ## 🔗 Links
 
 - 🤗 **Live App** → [GAN Lab on Hugging Face Spaces](https://huggingface.co/spaces/realsuyash/gan-lab)
-- 📓 **Colab Notebook** → *(add your Colab link here)*
+- 📓 **Colab Notebook** → *will be publish soon*
 - 👤 **Author** → [realsuyash](https://huggingface.co/realsuyash)
 
 ---
